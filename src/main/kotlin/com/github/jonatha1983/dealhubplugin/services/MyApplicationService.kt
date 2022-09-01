@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jonatha1983.dealhubplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jonatha1983.dealhubplugin.MyBundle
 
 class MyApplicationService {
 
